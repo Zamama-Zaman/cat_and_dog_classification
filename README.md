@@ -14,5 +14,5 @@ A Flutter project.
 ![github-small](screen_shots/3.png)
 
 ## 4) Dog Prediction
-<img src="screen_shots/4.png" with="100">
+<img src="screen_shots/4.png" width="100">
 
